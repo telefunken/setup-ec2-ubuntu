@@ -8,5 +8,5 @@ follows:
 cd $HOME
 sudo apt-get install -y git-core
 git clone https://github.com/telefunken/setup-ec2-ubuntu.git
-./setup/setup.sh   
+./setup-ec2-ubuntu/setup.sh   
 ```
