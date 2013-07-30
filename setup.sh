@@ -42,4 +42,5 @@ ln -sb setup-dotfiles/.bash_profile .
 ln -sb setup-dotfiles/.bashrc .
 ln -sf setup-dotfiles/.emacs.d .
 ln -sf setup-dotfiles/.inputrc .
+ln -sf setup-dotfiles/.gitconfig .
 
